@@ -31,17 +31,10 @@ Those who start on Thursday (X4) do work on Monday, as do those who start on Fri
 Day	| Constraint 	
 | ----- | -----:|
 Monday    | X1+ X4+ X5+X6+X7≥14
-
 Tuesday   | X1+ X2+X5+X6+X7≥13
-
 Wednesday | X1+X2+X3+X6+X7≥15
-
 Thursday  | X1+X2+X3+X4+X5≥16
-
 Friday   	| X1+X2+X3+X4+X5≥19
-
 Saturday  | X2+X3+X4+X5+X6≥18
-
 Sunday   	| X3+X4+X5+X6+X7≥11
-
 Last      | X1+X2+X3+ X4+ X5+X6+X7≥0
